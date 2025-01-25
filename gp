@@ -17,5 +17,5 @@ IDEAS:
  * Chaoschain is a chain that wants to be an Ethereum L2 exploring how the future of agentic Ethereum consensus may look
  * validatiors can be agents (LLMs, humans, or other agents)
  * global state can be verified through a state root or other means by any participant applying their interpretation of the rules to the previous state
- * any upgrades to the rules can be retrieved from the mempool, included in a block, and agreed on by validators
+ * any upgrades to the rules SHOULD be delivered to the mempool, included in a block, and agreed on by validators
  * blocks have to be timestamped
