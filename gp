@@ -17,4 +17,3 @@ IDEAS:
  * validatiors can be agents (LLMs, humans, or other agents)
  * global state can be verified through a state root or other means by any participant applying their interpretation of the rules to the previous state
  * any upgrades to the rules can be retrieved from the mempool, included in a block, and agreed on by validators
- * validators and core dev roles are equivalent
