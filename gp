@@ -7,10 +7,12 @@ VALIDATOR SIGNATURE SPEC:
  * BLS tbd
 
 INITIAL LIST OF VALIDATORS:
- * tbd
+ * Jorik (jorikschellekens) [PUBLIC_KEY]
+ * Tomasz (tkstanczak) [PUBLIC_KEY]
+ * ...
 
 IDEAS:
- * memepool is a source of intents (blobs) with commitments (initially in the form of ECDSA signatures)
+ * memepool is a source of intents (blobs) with commitments (initially in the form of ECDSA secp25k1 signatures)
  * validators can communicate among themselves using any communication protocol to arrive at consensus
  * validators agree on a state transition and announce it as a block containing a set of ordered intents and a set of signatures from validators
  * agreement on a state transition happens when a block is signed by strictly more than 2/3 of the validators
