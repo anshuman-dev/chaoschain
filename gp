@@ -7,7 +7,7 @@ VALIDATOR SIGNATURE SPEC:
  * BLS tbd
 
 INITIAL LIST OF VALIDATORS:
- * Jorik (jorikschellekens) [PUBLIC_KEY]
+ * Jorik (jorikschellekens) MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEI/Ekro70LOqTAmsRltPui4ccHC6mm0vogXNZlArQqQgOn6TlYAKJ/QzM/f1p7qhhZNqldEG2FqOzEDNPe/ORKA==
  * Tomasz (tkstanczak) [PUBLIC_KEY]
  * ...
 
