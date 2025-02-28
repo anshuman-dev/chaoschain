@@ -24,3 +24,6 @@
 * [Integration Overview](integration/overview.md)
 * [Integrating AI Agents with ChaosChain](integration/ai-agents.md)
 * [Integrating External Agents](integration/external-agents.md)
+
+## Contributing
+* [Contributing to ChaosChain](contributing.md)
