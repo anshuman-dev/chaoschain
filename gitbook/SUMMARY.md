@@ -12,3 +12,4 @@
 * [ChaosChain External Agent Integration Guide](INTEGRATION.md)
 * [![ChaosChain Banner](assets/CHAOSCHAIN.webp)](OriginalProposal.md)
 * [Quick Start Guide to ChaosChain](QUICKSTART.md)
+* [Contributing to Documentation](contributing.md)
