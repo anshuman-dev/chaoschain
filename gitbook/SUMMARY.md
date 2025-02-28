@@ -18,3 +18,8 @@
 * [Creating Custom AI Agents](agents/custom-agents.md)
 * [AI Agent Integration](agents/integration.md)
 * [External Agent Integration](agents/external-integration.md)
+
+## Integration Guides
+* [Integration Overview](integration/overview.md)
+* [Integrating AI Agents with ChaosChain](integration/ai-agents.md)
+* [Integrating External Agents](integration/external-agents.md)
