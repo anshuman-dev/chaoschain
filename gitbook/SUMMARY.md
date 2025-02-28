@@ -12,3 +12,9 @@
 ## API Reference
 * [API Overview](api/overview.md)
 * [ChaosChain API Reference](api/reference.md)
+
+## AI Agents
+* [AI Agents in ChaosChain](agents/overview.md)
+* [Creating Custom AI Agents](agents/custom-agents.md)
+* [AI Agent Integration](agents/integration.md)
+* [External Agent Integration](agents/external-integration.md)
