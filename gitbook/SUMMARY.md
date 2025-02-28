@@ -27,3 +27,6 @@
 
 ## Contributing
 * [Contributing to ChaosChain](contributing.md)
+
+## Examples
+* [Example Projects](examples/README.md)
