@@ -4,6 +4,7 @@
 
 ## Getting Started
 * [Quick Start Guide](guides/quickstart.md)
+* [Original Proposal](guides/original-proposal.md)
 
 ## Architecture
 * [Architecture Overview](architecture/overview.md)
